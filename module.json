@@ -1,0 +1,26 @@
+{
+  "id": "pf2e-attributeroller",
+  "title": "Pf2e Attribute Roller",
+  "description": "A small module for Pf2e to make character attributes easily rollable",
+  "authors": [
+    {
+    "name": "saibot"
+    }
+  ],
+  "version": "0.0.0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "11"
+  },
+  "socket": "true",
+  "esmodules": [
+	"scripts/AttributeRoller.js"
+  ],
+  "url": "https://github.com/Saibot393/pf2e-attributeroller",
+  "download": "https://github.com/Saibot393/pf2e-attributeroller/archive/refs/tags/v0.0.0.zip",
+  "manifest": "https://github.com/Saibot393/pf2e-attributeroller/releases/latest/download/module.json",
+  "readme": "https://github.com/Saibot393/pf2e-attributeroller/blob/main/README.md",
+  "changelog": "https://github.com/Saibot393/pf2e-attributeroller/blob/main/CHANGELOG.md",
+  "bugs": "https://github.com/Saibot393/pf2e-attributeroller/issues",
+  "allowBugReporter": true
+}
