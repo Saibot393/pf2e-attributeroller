@@ -7,7 +7,7 @@
     "name": "saibot"
     }
   ],
-  "version": "0.0.0",
+  "version": "1.0.0",
   "compatibility": {
     "minimum": "10",
     "verified": "11"
@@ -16,8 +16,16 @@
   "esmodules": [
 	"scripts/AttributeRoller.js"
   ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf2e",
+        "type": "system"
+      }
+    ]
+  },
   "url": "https://github.com/Saibot393/pf2e-attributeroller",
-  "download": "https://github.com/Saibot393/pf2e-attributeroller/archive/refs/tags/v0.0.0.zip",
+  "download": "https://github.com/Saibot393/pf2e-attributeroller/archive/refs/tags/v1.0.0.zip",
   "manifest": "https://github.com/Saibot393/pf2e-attributeroller/releases/latest/download/module.json",
   "readme": "https://github.com/Saibot393/pf2e-attributeroller/blob/main/README.md",
   "changelog": "https://github.com/Saibot393/pf2e-attributeroller/blob/main/CHANGELOG.md",
